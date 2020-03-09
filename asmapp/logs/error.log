@@ -1,0 +1,476 @@
+[2020-03-03 01:50:20] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:51:35] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:52:31] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:52:52] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:53:26] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:55:23] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:56:00] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:57:16] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:57:55] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:58:27] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 01:59:09] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:00:08] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:00:42] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:01:38] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:02:38] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:03:05] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:03:27] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:05:59] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:06:22] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:06:59] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:09:33] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-03 02:09:51] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'keep_calling'[2020-03-04 00:00:55] Database parameters not found![2020-03-04 00:01:46] Database parameters not found![2020-03-04 00:04:53] Database parameters not found![2020-03-04 22:46:48] {"username":"emma.rus93@yahoo.com","type":"1"}
+[2020-03-04 22:48:18] {"username":"emma.rus93@gmail.com","type":"2"}
+[2020-03-05 22:25:52] 
+[2020-03-05 22:26:20] 
+[2020-03-05 22:27:36] 
+[2020-03-05 22:28:46] 
+[2020-03-05 22:30:13] 
+[2020-03-05 22:32:30] 
+[2020-03-05 22:33:14] 5e61701abc3e6
+[2020-03-05 22:34:01] 5e617049a8544
+[2020-03-05 22:34:02] 5e61704ac90f4
+[2020-03-05 22:35:13] 5e617091cbc0f
+[2020-03-05 22:36:46] {"user_id":{"id":"1","0":"1"},"session_id":"5e6170ee40d71","user_rights":[]}
+[2020-03-05 22:39:03] {"user_id":{"id":"1","0":"1"},"session_id":"5e617177987a0","user_rights":[]}
+[2020-03-05 22:43:42] {"user_id":{"id":"1","0":"1"},"session_id":"5e61728ecd43f","user_rights":[]}
+[2020-03-06 00:16:58] "null"
+[2020-03-06 00:17:46] "{\"id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}},\"5\":{\"id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}}}}"
+[2020-03-06 00:20:03] "{\"id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}},\"5\":{\"id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}}}}"
+[2020-03-06 00:20:50] "{\"user_id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"user_id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"user_id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}},\"5\":{\"user_id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"access_right_id\":[\"1\",\"3\",null],\"access_right\":[\"changePassword\",\"manageUsers\",null],\"2\":{\"user_id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\",\"3\"],\"access_right\":[\"changePassword\",\"manageUsers\"],\"2\":{\"user_id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"access_right_id\":[\"1\"],\"access_right\":[\"changePassword\"]}}}}"
+[2020-03-06 00:21:24] "6"
+[2020-03-06 00:21:53] "6"
+[2020-03-06 00:23:26] "5"
+[2020-03-06 00:26:07] "0"
+[2020-03-06 00:28:02] "0"
+[2020-03-06 00:29:08] "0"
+[2020-03-06 02:19:51] "{\"user_id\":\"2\",\"session_id\":\"5e61a537ae3b7\",\"user_rights\":[{\"user_right\":\"changePassword\",\"0\":\"changePassword\"}]}"
+[2020-03-06 02:21:30] "{\"user_id\":\"2\",\"session_id\":\"5e61a59a0307b\",\"user_rights\":[{\"user_right\":\"changePassword\",\"0\":\"changePassword\"}]}"
+[2020-03-06 02:25:02] "{\"user_id\":\"2\",\"session_id\":\"5e61a66eb9c49\",\"user_rights\":[\"changePassword\"]}"
+[2020-03-06 02:45:37] "{\"user_id\":\"2\",\"session_id\":\"5e61ab41207bd\",\"user_rights\":[{\"user_right\":\"changePassword\",\"0\":\"changePassword\"},{\"user_right\":\"manageUsers\",\"0\":\"manageUsers\"}]}"
+[2020-03-06 02:50:12] "{\"user_id\":\"2\",\"session_id\":\"5e61ac544456f\",\"user_rights\":[\"changePassword\",\"manageUsers\"]}"
+[2020-03-06 03:00:59] null
+[2020-03-06 03:02:20] ["The username cannot be empty!"]
+[2020-03-06 03:02:54] ["The username cannot be empty!"]
+[2020-03-06 03:04:12] null
+[2020-03-06 03:04:12] null
+[2020-03-06 03:06:07] null
+[2020-03-06 03:11:38] null
+[2020-03-06 03:12:20] true
+[2020-03-06 03:13:34] true
+[2020-03-06 03:14:54] "{\"user_id\":\"2\",\"session_id\":\"5e61b21e93571\",\"user_rights\":[\"changePassword\",\"manageUsers\"]}"
+[2020-03-06 03:15:02] true
+[2020-03-06 03:15:09] "{\"user_id\":\"2\",\"session_id\":\"5e61b22d634cf\",\"user_rights\":[\"changePassword\",\"manageUsers\"]}"
+[2020-03-06 14:49:45] "{\"user_id\":\"2\",\"session_id\":\"5e6254f95c042\",\"user_rights\":[\"changePassword\",\"manageUsers\"]}"
+[2020-03-06 14:52:31] "{\"user_id\":\"2\",\"session_id\":\"5e62559f9f676\",\"user_rights\":[\"changePassword\",\"manageUsers\"]}"
+[2020-03-06 14:53:15] "{\"user_id\":\"2\",\"session_id\":\"5e6255cbe0ea9\",\"user_rights\":[\"changePassword\"]}"
+[2020-03-06 15:04:34] "{\"user_id\":\"1\",\"session_id\":\"5e6258722da64\",\"user_rights\":[\"login\",\"changePassword\"]}"
+[2020-03-06 15:10:32] "null"
+[2020-03-06 15:13:13] "null"
+[2020-03-06 15:14:44] "null"
+[2020-03-06 15:15:40] "null"
+[2020-03-06 15:16:54] "null"
+[2020-03-06 15:18:42] "null"
+[2020-03-06 15:20:01] "{\"user_id\":\"1\",\"session_id\":\"5e625c1190c42\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 11:35:41] "{\"user_id\":\"2\",\"session_id\":\"5e6378fded1a9\",\"user_rights\":[\"login\",\"changePassword\"]}"
+[2020-03-07 11:36:04] "{\"user_id\":\"1\",\"session_id\":\"5e637914cee30\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 14:21:43] "{\"user_id\":\"1\",\"session_id\":\"5e639fe7b0a37\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 14:21:44] "{\"user_id\":\"1\",\"session_id\":\"5e639fe81bb7e\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 14:22:32] "{\"user_id\":\"2\",\"session_id\":\"5e63a0180bc5b\",\"user_rights\":[\"login\",\"changePassword\"]}"
+[2020-03-07 14:22:39] true
+[2020-03-07 14:23:09] "{\"user_id\":\"1\",\"session_id\":\"5e63a03d50fca\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 15:07:11] "{\"user_id\":\"2\",\"session_id\":\"5e63aa8f45d91\",\"user_rights\":[\"login\",\"changePassword\"]}"
+[2020-03-07 15:07:17] true
+[2020-03-07 15:07:39] "{\"user_id\":\"1\",\"session_id\":\"5e63aaab2297b\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 15:16:17] "{\"user_id\":\"2\",\"session_id\":\"5e63acb111afa\",\"user_rights\":[\"login\",\"changePassword\"]}"
+[2020-03-07 15:16:25] true
+[2020-03-07 15:16:52] "{\"user_id\":\"1\",\"session_id\":\"5e63acd44a2ad\",\"user_rights\":[\"login\",\"changePassword\",\"manageUsers\"]}"
+[2020-03-07 15:17:10] true
+[2020-03-07 15:19:49] {"user_id":1}
+[2020-03-07 15:19:49] null
+[2020-03-07 15:33:08] {"user_id":1}
+[2020-03-07 15:33:09] null
+[2020-03-07 15:33:11] ["The password cannot be empty!"]
+[2020-03-07 15:35:52] {"user_id":1}
+[2020-03-07 15:35:53] null
+[2020-03-07 15:37:43] {"user_id":1}
+[2020-03-07 15:37:44] null
+[2020-03-07 15:38:21] {"user_id":1}
+[2020-03-07 15:38:22] null
+[2020-03-07 15:39:38] {"user_id":1}
+[2020-03-07 15:39:38] null
+[2020-03-07 15:39:57] {"user_id":1}
+[2020-03-07 15:39:57] null
+[2020-03-07 15:44:39] true
+[2020-03-07 15:45:52] true
+[2020-03-07 15:48:33] true
+[2020-03-07 15:51:49] true
+[2020-03-07 15:53:26] true
+[2020-03-07 15:54:02] true
+[2020-03-07 15:55:47] ["The password cannot be empty!"]
+[2020-03-07 15:55:52] true
+[2020-03-07 15:56:58] ["The password cannot be empty!"]
+[2020-03-07 15:57:01] true
+[2020-03-07 15:57:51] {"user_id":1}
+[2020-03-07 15:57:51] null
+[2020-03-07 15:58:03] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 15:58:03] null
+[2020-03-07 16:01:36] {"user_id":1}
+[2020-03-07 16:01:36] null
+[2020-03-07 16:03:15] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:03:15] null
+[2020-03-07 16:03:29] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:03:30] null
+[2020-03-07 16:04:24] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:04:24] null
+[2020-03-07 16:05:13] "1"
+[2020-03-07 16:05:13] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:05:13] null
+[2020-03-07 16:06:48] {"user_id":1}
+[2020-03-07 16:06:48] null
+[2020-03-07 16:07:33] {"user_id":1}
+[2020-03-07 16:07:34] null
+[2020-03-07 16:07:41] true
+[2020-03-07 16:12:00] {"user_access_rights":"1","user_id":"1"}
+[2020-03-07 16:12:00] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:12:01] null
+[2020-03-07 16:14:01] {"user_access_rights":"1","user_id":"1"}
+[2020-03-07 16:14:01] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:14:01] null
+[2020-03-07 16:16:17] {"user_access_rights":"1","user_id":"1"}
+[2020-03-07 16:16:17] {"user_id":1,"user_access_rights":"1"}
+[2020-03-07 16:16:17] null
+[2020-03-07 16:17:55] {"user_access_rights":["1","4"],"user_id":"1"}
+[2020-03-07 16:17:55] {"user_id":1,"user_access_rights":false}
+[2020-03-07 16:17:55] null
+[2020-03-07 16:30:54] {"user_access_rights":["1","4"],"user_id":"1"}
+[2020-03-07 16:30:54] {"user_id":"1","user_access_rights":["1","4"]}
+[2020-03-07 16:30:54] null
+[2020-03-07 16:32:56] {"user_access_rights":["1","4"],"user_id":"1"}
+[2020-03-07 16:32:56] {"user_id":1,"user_access_rights":["1","4"]}
+[2020-03-07 16:32:56] null
+[2020-03-07 16:33:28] {"user_id":1,"user_access_rights":["1","4"]}
+[2020-03-07 16:33:28] null
+[2020-03-07 16:34:46] {"user_id":1,"user_access_rights":["1","3"]}
+[2020-03-07 16:34:46] null
+[2020-03-07 16:36:13] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:36:13] {"user_id":1,"user_access_rights":["1","3"]}
+[2020-03-07 16:36:13] null
+[2020-03-07 16:37:09] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:37:09] {"user_id":1}
+[2020-03-07 16:37:10] null
+[2020-03-07 16:39:15] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:39:15] {"user_id":1,"user_access_rights":["1","3"]}
+[2020-03-07 16:39:15] null
+[2020-03-07 16:41:26] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:41:26] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 16:41:26] null
+[2020-03-07 16:57:54] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:57:54] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 16:57:54] null
+[2020-03-07 16:58:37] {"user_id":"1"}
+[2020-03-07 16:58:37] {"user_id":1}
+[2020-03-07 16:58:37] null
+[2020-03-07 16:59:11] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 16:59:11] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 16:59:11] null
+[2020-03-07 17:00:25] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:00:25] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:00:25] null
+[2020-03-07 17:00:25] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:00:25] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:00:25] null
+[2020-03-07 17:01:06] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:01:06] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:01:06] null
+[2020-03-07 17:01:59] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:01:59] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:01:59] null
+[2020-03-07 17:02:44] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:02:44] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:02:44] null
+[2020-03-07 17:03:18] {"user_id":"2"}
+[2020-03-07 17:03:18] {"user_id":2}
+[2020-03-07 17:03:18] null
+[2020-03-07 17:03:20] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:03:20] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:03:20] null
+[2020-03-07 17:04:16] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:04:16] {"user_id":1,"user_access_rights":"[&#34;1&#34;,&#34;3&#34;]"}
+[2020-03-07 17:04:16] true
+[2020-03-07 17:06:33] {"user_access_rights":["1","3"],"user_id":"1"}
+[2020-03-07 17:06:33] true
+[2020-03-07 17:13:23] true
+[2020-03-07 17:28:00] null
+[2020-03-07 17:28:59] null
+[2020-03-07 17:29:50] null
+[2020-03-07 17:30:19] true
+[2020-03-07 17:31:30] true
+[2020-03-07 17:32:03] ["Value exists already!"]
+[2020-03-07 17:33:26] null
+[2020-03-07 17:33:32] ["Some values exist already!","Some values exist already!"]
+[2020-03-07 17:34:36] ["Value exists already!","Value exists already!"]
+[2020-03-07 18:43:33] "{\"user_id\":\"1\",\"session_id\":\"5e63dd455fabd\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\"]}"
+[2020-03-07 19:55:45] "null"
+[2020-03-07 19:56:17] "null"
+[2020-03-07 19:58:59] "null"
+[2020-03-07 20:00:48] "null"
+[2020-03-07 20:00:50] "null"
+[2020-03-07 20:00:51] "null"
+[2020-03-07 20:00:51] "null"
+[2020-03-07 20:03:58] "null"
+[2020-03-07 20:06:45] "null"
+[2020-03-07 20:08:00] "null"
+[2020-03-07 20:08:36] "{\"user_id\":\"1\",\"session_id\":\"5e63f1340a859\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\"]}"
+[2020-03-07 20:10:04] "{\"user_id\":\"1\",\"session_id\":\"5e63f18c28ec9\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\"]}"
+[2020-03-08 11:02:27] {"username":"emma.rus93@gmail.com","password":"aaaa","app":"app2","role":"user"}
+[2020-03-08 11:05:08] null
+[2020-03-08 11:05:18] null
+[2020-03-08 11:05:23] ["The password cannot be empty!"]
+[2020-03-08 11:05:33] ["Value exists already!","Value exists already!","Value exists already!"]
+[2020-03-08 11:08:49] {"username":"emma.rus93@gmail.com","password":"aaa","app":"2","role":"1"}
+[2020-03-08 11:19:24] {"username":"emma.rus93@gmail.com","password":"aaa","app":"1","role":"2"}
+[2020-03-08 11:19:40] ["User not found!"]
+[2020-03-08 11:21:20] null
+[2020-03-08 11:21:49] true
+[2020-03-08 11:24:33] true
+[2020-03-08 11:26:07] ["Username exists already!"]
+[2020-03-08 11:28:46] ["Username exists already!"]
+[2020-03-08 11:28:56] ["Username exists already!"]
+[2020-03-08 11:29:02] ["Username exists already!"]
+[2020-03-08 11:29:36] null
+[2020-03-08 11:30:08] null
+[2020-03-08 11:31:33] null
+[2020-03-08 11:32:10] null
+[2020-03-08 11:34:24] null
+[2020-03-08 11:35:39] ["No values selected!"]
+[2020-03-08 11:37:42] ["Username exists already!"]
+[2020-03-08 11:37:49] ["Username exists already!"]
+[2020-03-08 11:38:15] true
+[2020-03-08 11:53:26] "null"
+[2020-03-08 11:57:00] "{\"user_id\":\"1\",\"session_id\":\"5e64cf7cf2885\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-08 12:04:04] {"app_name":"aaa"}
+[2020-03-08 12:04:04] null
+[2020-03-08 12:05:00] {"app_name":"aaa"}
+[2020-03-08 12:05:00] true
+[2020-03-08 12:07:40] {"app_name":"aaa"}
+[2020-03-08 12:07:41] true
+[2020-03-08 12:07:45] {"app_name":"aaa"}
+[2020-03-08 12:07:45] ["App already exists!"]
+[2020-03-08 12:15:06] {"app_name":""}
+[2020-03-08 12:15:06] null
+[2020-03-08 12:17:56] {"app_name":""}
+[2020-03-08 12:17:56] null
+[2020-03-08 12:18:37] {"app_name":""}
+[2020-03-08 12:18:37] null
+[2020-03-08 12:20:34] null
+[2020-03-08 12:22:16] null
+[2020-03-08 12:22:42] ["No value found for App","App field must not be empty!"]
+[2020-03-08 12:23:51] ["App field must not be empty!"]
+[2020-03-08 12:23:54] ["App already exists!"]
+[2020-03-08 12:39:53] true
+[2020-03-08 19:55:30] "master"
+[2020-03-08 19:55:30] 4
+[2020-03-08 19:55:30] null
+[2020-03-08 19:57:06] "master"
+[2020-03-08 19:57:06] 4
+[2020-03-08 19:57:06] null
+[2020-03-08 19:57:58] "master"
+[2020-03-08 19:57:58] 4
+[2020-03-08 19:57:59] null
+[2020-03-08 19:58:33] "master"
+[2020-03-08 19:58:33] 4
+[2020-03-08 19:58:34] null
+[2020-03-08 19:59:47] "master"
+[2020-03-08 19:59:47] 4
+[2020-03-08 19:59:47] ["Role already exists!"]
+[2020-03-08 20:02:34] "supermaster"
+[2020-03-08 20:02:34] 4
+[2020-03-08 20:02:35] true
+[2020-03-08 20:54:37] "[\"The username cannot be empty!\",\"The password cannot be empty!\"]"
+[2020-03-08 21:39:34] "Failed to connect to asmapp_api.com port 80: Connection refused"
+[2020-03-08 21:39:34] "false"
+[2020-03-08 21:40:47] "Failed to connect to asmapp_api.com port 80: Connection refused"
+[2020-03-08 21:40:47] "false"
+[2020-03-08 21:48:03] "null"
+[2020-03-08 21:50:16] "null"
+[2020-03-08 21:52:03] "null"
+[2020-03-08 21:53:21] "null"
+[2020-03-08 21:54:11] "{\"username\":\"emma.rus93@gmail.com\",\"password\":\"aaa\",\"app\":\"asmapp\"}"
+[2020-03-08 21:54:11] "null"
+[2020-03-08 21:58:24] {"app":"asmapp"}
+[2020-03-08 21:58:24] null
+[2020-03-08 22:00:23] null
+[2020-03-08 22:06:46] null
+[2020-03-08 22:08:06] null
+[2020-03-08 22:08:33] null
+[2020-03-08 22:10:00] null
+[2020-03-08 22:10:54] null
+[2020-03-08 22:16:33] null
+[2020-03-08 22:22:33] null
+[2020-03-08 22:24:51] null
+[2020-03-08 22:26:58] null
+[2020-03-08 22:27:45] null
+[2020-03-08 22:29:06] null
+[2020-03-08 22:34:02] null
+[2020-03-08 22:36:02] null
+[2020-03-08 22:36:59] null
+[2020-03-08 22:38:17] null
+[2020-03-08 22:39:35] null
+[2020-03-08 22:40:02] null
+[2020-03-08 22:46:13] null
+[2020-03-08 22:51:33] {"user_id":"1","session_id":"5e6568e581340","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-08 22:56:33] {"user_id":"1","session_id":"5e656a1110100","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-08 22:58:38] {"user_id":"1","session_id":"5e656a8e0c6c1","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-08 23:03:40] {"url":"http:\/\/asmapp_api.com\/login","content_type":"application\/json; charset=UTF-8","http_code":200,"header_size":434,"request_size":221,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.25,"namelookup_time":0.016,"connect_time":0.016,"pretransfer_time":0.016,"size_upload":144,"size_download":120,"speed_download":480,"speed_upload":576,"download_content_length":120,"upload_content_length":144,"starttransfer_time":0.016,"redirect_time":0,"redirect_url":"","primary_ip":"192.168.1.6","certinfo":[],"primary_port":80,"local_ip":"192.168.1.6","local_port":61514}
+[2020-03-08 23:03:40] null
+[2020-03-08 23:07:01] {"url":"http:\/\/asmapp_api.com\/login","content_type":"application\/json; charset=UTF-8","http_code":200,"header_size":434,"request_size":221,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.25,"namelookup_time":1.0e-6,"connect_time":1.0e-6,"pretransfer_time":1.0e-6,"size_upload":144,"size_download":120,"speed_download":480,"speed_upload":576,"download_content_length":120,"upload_content_length":144,"starttransfer_time":1.0e-6,"redirect_time":0,"redirect_url":"","primary_ip":"192.168.1.6","certinfo":[],"primary_port":80,"local_ip":"192.168.1.6","local_port":62148}
+[2020-03-08 23:07:01] "aaa"
+[2020-03-08 23:07:01] "HTTP\/1.1 200 OK\r\nDate: Sun, 08 Mar 2020 22:07:00 GMT\r\nServer: Apache\/2.4.37 (Win32) OpenSSL\/1.1.1 PHP\/7.2.12\r\nX-Powered-By: PHP\/7.2.12\r\nAccess-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: OPTIONS,GET,POST,PUT,DELETE\r\nAccess-Control-Max-Age: 3600\r\nAccess-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With\r\nContent-Length: 120\r\nContent-Type: application\/json; charset=UTF-8\r\n\r\n{\"user_id\":\"1\",\"session_id\":\"5e656c852ceed\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-08 23:07:01] null
+[2020-03-08 23:13:30] "{\"user_id\":\"1\",\"session_id\":\"5e656e0a9e8b2\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-08 23:13:30] {"user_id":"1","session_id":"5e656e0a9e8b2","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-08 23:15:02] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: app in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>10<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391592<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>469944<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>28<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>469944<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>469944<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<\/table><\/font>\n{\"errors\":[\"Unsuccessful login!\"]}"
+[2020-03-08 23:15:02] null
+[2020-03-08 23:17:20] "<br \/>\n<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Warning: json_decode() expects parameter 1 to be string, array given in C:\\xampp\\htdocs\\asmapp_api\\index.php on line <i>26<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391312<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>469392<\/td><td bgcolor='#eeeeec'><a href='http:\/\/www.php.net\/function.json-decode' target='_new'>json_decode<\/a>\n(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>26<\/td><\/tr>\n<\/table><\/font>\n<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: app in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>10<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391312<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2090<\/td><td bgcolor='#eeeeec' align='right'>469632<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2090<\/td><td bgcolor='#eeeeec' align='right'>469632<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2090<\/td><td bgcolor='#eeeeec' align='right'>469632<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<\/table><\/font>\n{\"errors\":[\"Unsuccessful login!\"]}"
+[2020-03-08 23:17:20] null
+[2020-03-08 23:18:21] "<br \/>\n<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Warning: json_decode() expects parameter 1 to be string, array given in C:\\xampp\\htdocs\\asmapp_api\\index.php on line <i>26<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391568<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>469648<\/td><td bgcolor='#eeeeec'><a href='http:\/\/www.php.net\/function.json-decode' target='_new'>json_decode<\/a>\n(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>26<\/td><\/tr>\n<\/table><\/font>\n<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: app in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>10<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391568<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>469888<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>31<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>469888<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>469888<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<\/table><\/font>\n{\"errors\":[\"Unsuccessful login!\"]}"
+[2020-03-08 23:18:21] null
+[2020-03-08 23:19:21] "{\"user_id\":\"1\",\"session_id\":\"5e656f69121f1\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-08 23:19:21] {"user_id":"1","session_id":"5e656f69121f1","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-08 23:22:39] "<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught ArgumentCountError: Too few arguments to function API_Request::getUsers(), 0 passed in C:\\xampp\\htdocs\\asmapp_api\\index.php on line 36 and exactly 1 expected in C:\\xampp\\htdocs\\asmapp_api\\API_Request.php on line <i>20<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> ArgumentCountError: Too few arguments to function API_Request::getUsers(), 0 passed in C:\\xampp\\htdocs\\asmapp_api\\index.php on line 36 and exactly 1 expected in C:\\xampp\\htdocs\\asmapp_api\\API_Request.php on line <i>20<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>390128<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>466640<\/td><td bgcolor='#eeeeec'>API_Request::getUsers(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>36<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 07:15:25] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2290<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2660<\/td><td bgcolor='#eeeeec' align='right'>470176<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2660<\/td><td bgcolor='#eeeeec' align='right'>470176<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65defd8a81f\",\"user_rights\":[]}"
+[2020-03-09 07:15:25] null
+[2020-03-09 07:19:06] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65dfdad32a8\",\"user_rights\":[]}"
+[2020-03-09 07:19:06] null
+[2020-03-09 07:20:41] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65e039e844f\",\"user_rights\":[]}"
+[2020-03-09 07:20:41] null
+[2020-03-09 07:22:26] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>474440<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>474440<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65e0a275ad8\",\"user_rights\":[]}"
+[2020-03-09 07:22:26] null
+[2020-03-09 07:24:05] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>470064<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65e1055d5cf\",\"user_rights\":[]}"
+[2020-03-09 07:24:05] null
+[2020-03-09 07:29:05] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>17<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>470640<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>470640<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65e23181e54\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:29:05] null
+[2020-03-09 07:32:29] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: id in C:\\xampp\\htdocs\\asmapp_api\\UserController.php on line <i>18<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>470768<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>470768<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<\/table><\/font>\n{\"user_id\":null,\"session_id\":\"5e65e2fd32187\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:32:29] null
+[2020-03-09 07:33:59] "{\"user_id\":\"1\",\"session_id\":\"5e65e3577c3ec\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:33:59] {"user_id":"1","session_id":"5e65e3577c3ec","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 07:45:06] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined variable: conn in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>38<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>5<\/td><td bgcolor='#eeeeec' align='center'>0.2820<\/td><td bgcolor='#eeeeec' align='right'>507480<\/td><td bgcolor='#eeeeec'>UserRepository::updateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php' bgcolor='#eeeeec'>...\\UserRepository.php<b>:<\/b>25<\/td><\/tr>\n<\/table><\/font>\n<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught Error: Call to a member function prepare() on null in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>38<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Error: Call to a member function prepare() on null in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>38<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>473864<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>5<\/td><td bgcolor='#eeeeec' align='center'>0.2820<\/td><td bgcolor='#eeeeec' align='right'>507480<\/td><td bgcolor='#eeeeec'>UserRepository::updateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php' bgcolor='#eeeeec'>...\\UserRepository.php<b>:<\/b>25<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 07:45:06] null
+[2020-03-09 07:46:07] "<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>58<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>58<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391496<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>473992<\/td><td bgcolor='#eeeeec'>API_Request::login(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>27<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>473992<\/td><td bgcolor='#eeeeec'>UserController::getUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>7<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>473992<\/td><td bgcolor='#eeeeec'>UserRepository::checkUser(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>13<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>5<\/td><td bgcolor='#eeeeec' align='center'>0.2090<\/td><td bgcolor='#eeeeec' align='right'>507608<\/td><td bgcolor='#eeeeec'>UserRepository::updateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php' bgcolor='#eeeeec'>...\\UserRepository.php<b>:<\/b>25<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>6<\/td><td bgcolor='#eeeeec' align='center'>0.2220<\/td><td bgcolor='#eeeeec' align='right'>524792<\/td><td bgcolor='#eeeeec'><a href='http:\/\/www.php.net\/PDOStatement.execute' target='_new'>execute<\/a>\n(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php' bgcolor='#eeeeec'>...\\UserRepository.php<b>:<\/b>58<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 07:46:07] null
+[2020-03-09 07:48:17] "{\"user_id\":\"1\",\"session_id\":\"5e65e6b0e5ac1\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:48:17] {"user_id":"1","session_id":"5e65e6b0e5ac1","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 07:58:06] "{\"user_id\":\"1\",\"session_id\":\"1_5e65e8fe7fa3e\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:58:06] {"user_id":"1","session_id":"1_5e65e8fe7fa3e","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 07:59:07] "{\"user_id\":\"1\",\"session_id\":\"1-5e65e93b56c6b\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 07:59:07] {"user_id":"1","session_id":"1-5e65e93b56c6b","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:14:21] "{\"user_id\":\"1\",\"session_id\":\"1-5e65eccd9c604\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:14:21] {"user_id":"1","session_id":"1-5e65eccd9c604","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:17:08] "check"
+[2020-03-09 08:17:08] null
+[2020-03-09 08:17:08] "true"
+[2020-03-09 08:17:08] true
+[2020-03-09 08:19:43] "check"
+[2020-03-09 08:19:43] null
+[2020-03-09 08:19:44] "true"
+[2020-03-09 08:19:44] true
+[2020-03-09 08:22:20] "check"
+[2020-03-09 08:22:20] "1-5e65eccd9c604"
+[2020-03-09 08:22:20] "false"
+[2020-03-09 08:22:20] false
+[2020-03-09 08:22:21] "true"
+[2020-03-09 08:22:21] true
+[2020-03-09 08:26:18] "check"
+[2020-03-09 08:26:18] "1-5e65eccd9c604"
+[2020-03-09 08:26:18] "false"
+[2020-03-09 08:26:18] false
+[2020-03-09 08:26:59] "check"
+[2020-03-09 08:26:59] "1-5e65eccd9c604"
+[2020-03-09 08:26:59] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined index: last_request_at in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>78<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>16<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught Error: Call to undefined function TIMESTAMPDIFF() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>81<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Error: Call to undefined function TIMESTAMPDIFF() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>81<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>16<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2050<\/td><td bgcolor='#eeeeec' align='right'>478336<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 08:26:59] null
+[2020-03-09 08:29:12] "check"
+[2020-03-09 08:29:12] "1-5e65eccd9c604"
+[2020-03-09 08:29:12] "<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught Error: Call to undefined function TIMESTAMPDIFF() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>81<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Error: Call to undefined function TIMESTAMPDIFF() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>81<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478352<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478352<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>16<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478352<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 08:29:12] null
+[2020-03-09 08:33:28] "check"
+[2020-03-09 08:33:28] "1-5e65eccd9c604"
+[2020-03-09 08:33:28] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined variable: diff_format in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>83<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>16<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught Error: Function name must be a string in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>83<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Error: Function name must be a string in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>83<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2010<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>16<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2060<\/td><td bgcolor='#eeeeec' align='right'>478856<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 08:33:28] null
+[2020-03-09 08:34:26] "check"
+[2020-03-09 08:34:26] "1-5e65eccd9c604"
+[2020-03-09 08:34:26] "\"1-5e65eccd9c604\""
+[2020-03-09 08:34:26] "1-5e65eccd9c604"
+[2020-03-09 08:44:05] "check"
+[2020-03-09 08:44:05] "1-5e65eccd9c604"
+[2020-03-09 08:44:05] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined variable: session in C:\\xampp\\htdocs\\asmapp_api\\API_Request.php on line <i>15<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>478664<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\nfalse"
+[2020-03-09 08:44:05] null
+[2020-03-09 08:44:11] "check"
+[2020-03-09 08:44:11] "1-5e65eccd9c604"
+[2020-03-09 08:44:11] "<br \/>\n<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Notice: Undefined variable: session in C:\\xampp\\htdocs\\asmapp_api\\API_Request.php on line <i>15<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2030<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2080<\/td><td bgcolor='#eeeeec' align='right'>478664<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\nfalse"
+[2020-03-09 08:44:11] null
+[2020-03-09 08:44:55] "check"
+[2020-03-09 08:44:55] "1-5e65eccd9c604"
+[2020-03-09 08:44:55] "false"
+[2020-03-09 08:44:55] false
+[2020-03-09 08:45:56] "check"
+[2020-03-09 08:45:56] null
+[2020-03-09 08:46:55] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f46fd0e37\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:46:55] {"user_id":"1","session_id":"1-5e65f46fd0e37","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:46:56] "\"1-5e65f46fd0e37\""
+[2020-03-09 08:46:56] "1-5e65f46fd0e37"
+[2020-03-09 08:52:42] "<br \/>\n<font size='1'><table class='xdebug-error xe-uncaught-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Fatal error: Uncaught Error: Call to undefined method Utilities::get_param() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>85<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#f57900' colspan=\"5\"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )<\/span> Error: Call to undefined method Utilities::get_param() in C:\\xampp\\htdocs\\asmapp_api\\UserRepository.php on line <i>85<\/i><\/th><\/tr>\n<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack<\/th><\/tr>\n<tr><th align='center' bgcolor='#eeeeec'>#<\/th><th align='left' bgcolor='#eeeeec'>Time<\/th><th align='left' bgcolor='#eeeeec'>Memory<\/th><th align='left' bgcolor='#eeeeec'>Function<\/th><th align='left' bgcolor='#eeeeec'>Location<\/th><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>1<\/td><td bgcolor='#eeeeec' align='center'>0.2020<\/td><td bgcolor='#eeeeec' align='right'>391424<\/td><td bgcolor='#eeeeec'>{main}(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>0<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>2<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>478848<\/td><td bgcolor='#eeeeec'>API_Request::validateSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\index.php' bgcolor='#eeeeec'>...\\index.php<b>:<\/b>30<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>3<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>478848<\/td><td bgcolor='#eeeeec'>UserController::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\API_Request.php' bgcolor='#eeeeec'>...\\API_Request.php<b>:<\/b>14<\/td><\/tr>\n<tr><td bgcolor='#eeeeec' align='center'>4<\/td><td bgcolor='#eeeeec' align='center'>0.2070<\/td><td bgcolor='#eeeeec' align='right'>478848<\/td><td bgcolor='#eeeeec'>UserRepository::checkSession(  )<\/td><td title='C:\\xampp\\htdocs\\asmapp_api\\UserController.php' bgcolor='#eeeeec'>...\\UserController.php<b>:<\/b>30<\/td><\/tr>\n<\/table><\/font>\n"
+[2020-03-09 08:52:42] null
+[2020-03-09 08:53:48] "false"
+[2020-03-09 08:53:48] false
+[2020-03-09 08:54:04] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f61c5eb27\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:54:04] {"user_id":"1","session_id":"1-5e65f61c5eb27","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:54:04] "false"
+[2020-03-09 08:54:04] false
+[2020-03-09 08:56:14] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f69e5ebc2\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:56:14] {"user_id":"1","session_id":"1-5e65f69e5ebc2","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:56:14] "check"
+[2020-03-09 08:56:14] {"user_id":"1","session_id":"1-5e65f69e5ebc2","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:56:14] "false"
+[2020-03-09 08:56:14] false
+[2020-03-09 08:57:53] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f70138284\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:57:53] {"user_id":"1","session_id":"1-5e65f70138284","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:58:09] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f711c8ad1\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:58:09] {"user_id":"1","session_id":"1-5e65f711c8ad1","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:58:10] "\"1-5e65f711c8ad1\""
+[2020-03-09 08:58:10] "session_check"
+[2020-03-09 08:58:10] "1-5e65f711c8ad1"
+[2020-03-09 08:59:32] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f7648a7ae\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 08:59:32] {"user_id":"1","session_id":"1-5e65f7648a7ae","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 08:59:33] "\"1-5e65f7648a7ae\""
+[2020-03-09 08:59:33] "session_check"
+[2020-03-09 08:59:33] "1-5e65f7648a7ae"
+[2020-03-09 09:00:37] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f7a5a1660\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 09:00:37] {"user_id":"1","session_id":"1-5e65f7a5a1660","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 09:00:38] "\"1-5e65f7a5a1660\""
+[2020-03-09 09:00:38] "session_check"
+[2020-03-09 09:00:38] "1-5e65f7a5a1660"
+[2020-03-09 09:00:47] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f7aeebbf4\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 09:00:47] {"user_id":"1","session_id":"1-5e65f7aeebbf4","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 09:00:47] "\"1-5e65f7aeebbf4\""
+[2020-03-09 09:00:47] "session_check"
+[2020-03-09 09:00:47] "1-5e65f7aeebbf4"
+[2020-03-09 09:01:44] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f7e886543\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 09:01:44] {"user_id":"1","session_id":"1-5e65f7e886543","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 09:01:45] "\"1-5e65f7e886543\""
+[2020-03-09 09:01:45] "session_check"
+[2020-03-09 09:01:45] "1-5e65f7e886543"
+[2020-03-09 09:01:50] "\"1-5e65f7e886543\""
+[2020-03-09 09:01:50] "session_check"
+[2020-03-09 09:01:50] "1-5e65f7e886543"
+[2020-03-09 09:02:01] "{\"user_id\":\"1\",\"session_id\":\"1-5e65f7f99e0b0\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 09:02:01] {"user_id":"1","session_id":"1-5e65f7f99e0b0","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 09:02:02] "\"1-5e65f7f99e0b0\""
+[2020-03-09 09:02:02] "session_check"
+[2020-03-09 09:02:02] "1-5e65f7f99e0b0"
+[2020-03-09 09:02:16] "\"1-5e65f7f99e0b0\""
+[2020-03-09 09:02:16] "session_check"
+[2020-03-09 09:02:16] "1-5e65f7f99e0b0"
+[2020-03-09 09:02:19] "\"1-5e65f7f99e0b0\""
+[2020-03-09 09:02:19] "session_check"
+[2020-03-09 09:02:19] "1-5e65f7f99e0b0"
+[2020-03-09 09:02:20] "{\"1\":{\"user_id\":\"1\",\"username\":\"emma.rus93@gmail.com\",\"user_access_rights\":{\"1\":\"changePassword\",\"3\":\"manageUsers\",\"5\":\"addUser\",\"6\":\"addApp\",\"7\":\"addRole\"},\"role_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\",\"3\":\"manageUsers\"}},\"2\":{\"user_id\":\"2\",\"username\":\"emma.rus93@yahoo.com\",\"role_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\"}},\"5\":{\"user_id\":\"5\",\"username\":\"bungardeanpaul09@gmail.com\",\"user_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\"},\"role_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\"}},\"9\":{\"user_id\":\"9\",\"username\":\"emma.rus@gmail.com\",\"role_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\"}},\"10\":{\"user_id\":\"10\",\"username\":\"emma@gmail.com\",\"role_access_rights\":{\"4\":\"login\",\"1\":\"changePassword\"}}}"
+[2020-03-09 09:02:27] "\"1-5e65f7f99e0b0\""
+[2020-03-09 09:02:27] "session_check"
+[2020-03-09 09:02:27] "1-5e65f7f99e0b0"
+[2020-03-09 09:05:33] "\"1-5e65f7f99e0b0\""
+[2020-03-09 09:05:33] "session_check"
+[2020-03-09 09:05:33] "1-5e65f7f99e0b0"
+[2020-03-09 09:06:28] "false"
+[2020-03-09 09:06:28] "session_check"
+[2020-03-09 09:06:28] false
+[2020-03-09 09:14:02] "{\"user_id\":\"1\",\"session_id\":\"1-5e65facad2238\",\"user_rights\":[\"changePassword\",\"manageUsers\",\"addUser\",\"addApp\",\"addRole\"]}"
+[2020-03-09 09:14:02] {"user_id":"1","session_id":"1-5e65facad2238","user_rights":["changePassword","manageUsers","addUser","addApp","addRole"]}
+[2020-03-09 09:14:03] "\"1-5e65facad2238\""
+[2020-03-09 09:14:03] "session_check"
+[2020-03-09 09:14:03] "1-5e65facad2238"
+[2020-03-09 09:15:35] "\"1-5e65facad2238\""
+[2020-03-09 09:15:35] "session_check"
+[2020-03-09 09:15:35] "1-5e65facad2238"
+[2020-03-09 09:18:14] "false"
+[2020-03-09 09:18:14] "session_check"
+[2020-03-09 09:18:14] false

@@ -1,0 +1,64 @@
+.container{
+  display: grid;
+  grid-template-rows: 3fr 1fr 5fr 1fr;
+  grid-template-columns: 2fr 8fr;
+  grid-template-areas: 
+    "header header header"
+    "sidebar nav nav"
+    "sidebar main main"
+    "footer footer footer";
+  grid-gap: .75em;
+  height: 100vh;
+}
+
+header{
+    grid-area: header;
+    background-color: gray;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+nav{
+    grid-area: nav;
+    background-color: lightgray;
+    padding-left: 10px;
+}
+nav > span {
+    float:right;
+    display: inline-block;
+    padding: 20px;
+}
+nav > h2 {
+  float:left;
+  display: inline-block;
+}
+
+sidebar {
+    grid-area: sidebar;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+main{
+    grid-area: main;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+footer{
+    grid-area: footer;
+    background-color: gray;
+    padding: 7px;
+    text-align: center;
+    font-size: 15px;
+}
+.error {
+  padding: 5px;
+  color: red;
+  font-weight: bold;
+}
+.message {
+  padding: 5px;
+  color: green;
+  font-weight: bold;
+}
