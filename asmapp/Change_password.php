@@ -28,7 +28,11 @@
 		</nav>
 		<sidebar>
 			<span><a href="Change_password.php">Change password</a></span> <br/>
-			<span><a href="Manage_users.php">Manage users</a></span>
+			<span><a href="Manage_users.php">Manage users</a></span> <br/>
+			<span><a href="Add_user.php">Add user</a></span> <br/>
+			<span><a href="Add_app.php">Add app</a></span> <br/>
+			<span><a href="Add_role.php">Add role</a></span> <br/>
+			<span><a href="Add_right.php">Add access right</a></span> <br/>
 		</sidebar>
 		<main>
 			   <form action="Process_change_password.php" method=POST onsubmit="submit_form(this);">
@@ -37,7 +41,7 @@
 				<div class="form-group">
 					<label for="password">New Password:</label>
 					<input type="password" name="password" class="form-control">
-					<input type="hidden" name="user_id" value="<?=$_SESSION['user_id']?>">
+					<input type="hidden" name="session_id" value="<?=$_SESSION['session_id']?>">
 				</div>
 				<input type="submit" name="submit" value="Submit" class="btn btn-default">
 			</form>

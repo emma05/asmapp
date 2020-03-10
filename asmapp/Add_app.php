@@ -33,6 +33,7 @@
 			<span><a href="Add_user.php">Add user</a></span> <br/>
 			<span><a href="Add_app.php">Add app</a></span> <br/>
 			<span><a href="Add_role.php">Add role</a></span> <br/>
+			<span><a href="Add_right.php">Add access right</a></span> <br/>
 		</sidebar>
 		<main>
 			<form action="Process_add_app.php" method=POST onsubmit="submit_form(this);">

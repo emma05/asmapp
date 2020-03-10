@@ -3,19 +3,18 @@ require_once("Process_validate_session.php");
 require_once("Utilities.php");
 
 if(!isset($_SESSION['status'])) {
-	if(isset($_POST['role_name']) && isset($_POST['app']) && $_POST['role_name'] && $_POST['app']) {
-		$role = filter_var($_POST['role_name'], FILTER_SANITIZE_STRING);
-		$app_id = filter_var($_POST['app'], FILTER_VALIDATE_INT);
-		$url = "http://asmapp_api.com/add_role";
+	if(isset($_POST['access_right_name']) && $_POST['access_right_name'] && isset($_POST['role']) && $_POST['role']) {
+		$access_right = filter_var($_POST['access_right_name'], FILTER_SANITIZE_STRING);
+		$role_id = filter_var($_POST['role'], FILTER_VALIDATE_INT);
+		$url = "http://asmapp_api.com/add_access_right";
 		$parameters = array(
-			'role' => $role, 
-			'app_id' => $app_id,
+			'access_right' => $access_right,
+			'role_id' => $role_id,
 		);
 		$response = Utilities::curlConnection($url, 'POST', $parameters);
-
 		Utilities::log($response);
 		if($response === TRUE) {
-			$data['message'] = "Role added."; 
+			$data['message'] = "Access right added."; 
 		} else {
 			if(is_array($response)) {
 				$data['error'] = implode('\n', $response);

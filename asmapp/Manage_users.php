@@ -1,6 +1,6 @@
 <?php
+	require_once("Validate_session.php");
 	require_once("Utilities.php");
-	require_once("Session_check.php");
 	require_once("User_rights_check.php");
 	checkUserRight($_SESSION, "manageUsers");
 ?>
@@ -30,15 +30,20 @@
 		</nav>
 		<sidebar>
 			<span><a href="Change_password.php">Change password</a></span> <br/>
-			<span><a href="Manage_users.php">Manage users</a></span>
+			<span><a href="Manage_users.php">Manage users</a></span> <br/>
+			<span><a href="Add_user.php">Add user</a></span> <br/>
+			<span><a href="Add_app.php">Add app</a></span> <br/>
+			<span><a href="Add_role.php">Add role</a></span> <br/>
+			<span><a href="Add_right.php">Add access right</a></span> <br/>
 		</sidebar>
 		<main>
 			<h3>Users - Change password and user access rights</h3>
 			<?php
 				$url = "http://asmapp_api.com/get_users";
-				$users = Utilities::curlConnection($url, 'GET');
+				$parameters = array(
+				);
+				$users = Utilities::curlConnection($url, 'GET', $parameters);
 				if($users) {
-					//var_dump($users);
 					foreach($users as $data) {
 					?> 
 					<div class="error" id="error_<?=$data['user_id']?>"> </div>

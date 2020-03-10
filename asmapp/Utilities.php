@@ -1,16 +1,18 @@
 <?php
 
 class Utilities {
-	public static function curlConnection($url, $request, $data = null, $headers = array()) {
+	public static function curlConnection($url, $request, $data = null) {
 		if(!$url) {
 			return false;
 		}
 		$ch = curl_init();
 		//set the url, number of POST vars, POST data
 		curl_setopt($ch, CURLOPT_URL, $url);
-		if($headers) {
-			curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-		}
+		$token = self::getParams('api_token');
+		$headers = array(
+			'Authorization: Value=Token token=<' . $token . '>',
+		);
+		curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		if($request === "POST") {
 			curl_setopt($ch, CURLOPT_POST, 1);

@@ -2,13 +2,13 @@
 	require_once("Validate_session.php");
 	require_once("Utilities.php");
 	require_once("User_rights_check.php");
-	checkUserRight($_SESSION, "addRole");
+	checkUserRight($_SESSION, "addAccessRight");
 
 ?>
 <!DOCTYPE html>
 <head>
 	<title>
-		Add role
+		Add access right
 	</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +25,7 @@
 			<h2> Authentication and session management application</h2>
 		</header>
 		<nav>
-			<h2>Add role</h2>
+			<h2>Add access right</h2>
 			<span><a href="http://asmapp.com/Process_logout.php">Logout?</a></span>
 		</nav>
 		<sidebar>
@@ -37,25 +37,24 @@
 			<span><a href="Add_right.php">Add access right</a></span> <br/>
 		</sidebar>
 		<main>
-			<form action="Process_add_role.php" method=POST onsubmit="submit_form(this);">
+			<form action="Process_add_right.php" method=POST onsubmit="submit_form(this);">
 			   	<div class="error"> </div>
 			   	<div class="message"> </div>
 				<div class="form-group">
-					<label for="role_name">Role name:</label>
-					<input type="text" name="role_name" class="form-control">
-					<label for="apps">App:</label>
-					<select id="apps" name=app class="form-control">
+					<label for="access_right_name">Access right name:</label>
+					<input type="text" name="access_right_name" class="form-control">
+					<select id="roles" name=role class="form-control">
 						<option disabled selected value=""> -- select an option -- </option>
 					<?php
 						$url = "http://asmapp_api.com/get";
 						$parameters = array(
-							'type' => 'apps',
-						); 
-						$apps = Utilities::curlConnection($url, 'POST', $parameters);
-						if($apps) {
-							foreach($apps as $app) {
+							'type' => 'roles',
+						);
+						$roles = Utilities::curlConnection($url, 'POST', $parameters);
+						if($roles) {
+							foreach($roles as $role) {
 								?>
-								<option id="<?=$app['app_id']?>" value="<?=$app['app_id']?>"><?=$app['app_name']?></option>
+								<option id="<?=$role['role_id']?>" value="<?=$role['role_id']?>"><?=$role['role_name']?></option>
 								<?php
 							}
 						}
@@ -64,6 +63,8 @@
 				</div>
 				<input type="submit" name="submit" value="Submit" class="btn btn-default">
 			</form>
+
+
 		</main>
 		<footer>
 			<p>Copyright © Emanuela Rus</p>

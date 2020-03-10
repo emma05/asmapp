@@ -1,10 +1,8 @@
 <?php
+	require_once("Validate_session.php");
 	require_once("Utilities.php");
-	require_once("Session_check.php");
 	require_once("User_rights_check.php");
 	checkUserRight($_SESSION, "addUser");
-
-
 ?>
 <!DOCTYPE html>
 <head>
@@ -33,6 +31,9 @@
 			<span><a href="Change_password.php">Change password</a></span> <br/>
 			<span><a href="Manage_users.php">Manage users</a></span> <br/>
 			<span><a href="Add_user.php">Add user</a></span> <br/>
+			<span><a href="Add_app.php">Add app</a></span> <br/>
+			<span><a href="Add_role.php">Add role</a></span> <br/>
+			<span><a href="Add_right.php">Add access right</a></span> <br/>
 		</sidebar>
 		<main>
 			   <form action="Process_add_user.php" method=POST onsubmit="submit_form(this);">
@@ -48,9 +49,14 @@
 						<option disabled selected value=""> -- select an option -- </option>
 					<?php
 						$url = "http://asmapp_api.com/get";
-						$apps = Utilities::curlConnection($url, 'POST', array('apps'));
-						$roles = Utilities::curlConnection($url, 'POST', array('roles'));
-
+						$parameters = array(
+							'type' => 'apps',
+						); 
+						$apps = Utilities::curlConnection($url, 'POST', $parameters);
+						$parameters = array(
+							'type' => 'roles_app'
+						);
+						$roles = Utilities::curlConnection($url, 'POST', $parameters);
 						if($apps) {
 							foreach($apps as $app) {
 								?>
