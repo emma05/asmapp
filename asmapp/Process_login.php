@@ -2,9 +2,9 @@
 
 require_once("Utilities.php");
 if(isset($_POST['username']) && isset($_POST['password']) && isset($_POST['app']) && $_POST['username'] && $_POST['password'] && $_POST['app']) {
-	$username = filter_var($_POST['username'], FILTER_VALIDATE_EMAIL);
-	$password = filter_var($_POST['password'], FILTER_SANITIZE_STRING);
-	$app = filter_var($_POST['app'], FILTER_SANITIZE_STRING);
+	$username = filter_var(trim($_POST['username']), FILTER_VALIDATE_EMAIL);
+	$password = filter_var(trim($_POST['password']), FILTER_SANITIZE_STRING);
+	$app = filter_var(trim($_POST['app']), FILTER_SANITIZE_STRING);
 
 	$url = "http://asmapp_api.com/login";
 	$parameters = array(
