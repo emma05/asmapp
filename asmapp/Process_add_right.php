@@ -4,7 +4,7 @@ require_once("Utilities.php");
 
 if(!isset($_SESSION['status'])) {
 	if(isset($_POST['access_right_name']) && $_POST['access_right_name'] && isset($_POST['role']) && $_POST['role']) {
-		$access_right = filter_var($_POST['access_right_name'], FILTER_SANITIZE_STRING);
+		$access_right = filter_var(trim($_POST['access_right_name']), FILTER_SANITIZE_STRING);
 		$role_id = filter_var($_POST['role'], FILTER_VALIDATE_INT);
 		$url = "http://asmapp_api.com/add_access_right";
 		$parameters = array(
