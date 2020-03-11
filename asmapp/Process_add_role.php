@@ -4,7 +4,7 @@ require_once("Utilities.php");
 
 if(!isset($_SESSION['status'])) {
 	if(isset($_POST['role_name']) && isset($_POST['app']) && $_POST['role_name'] && $_POST['app']) {
-		$role = filter_var($_POST['role_name'], FILTER_SANITIZE_STRING);
+		$role = filter_var(trim($_POST['role_name']), FILTER_SANITIZE_STRING);
 		$app_id = filter_var($_POST['app'], FILTER_VALIDATE_INT);
 		$url = "http://asmapp_api.com/add_role";
 		$parameters = array(
