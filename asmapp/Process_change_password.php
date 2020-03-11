@@ -8,9 +8,9 @@ if(!isset($_SESSION['status'])) {
 		if(isset($_POST['user_id'])) {
 			$parameters['user_id'] = filter_var($_POST['user_id'], FILTER_VALIDATE_INT);
 		} else {
-			$parameters['session_id'] = filter_var($_POST['session_id'], FILTER_SANITIZE_STRING);
+			$parameters['session_id'] = filter_var(trim($_POST['session_id']), FILTER_SANITIZE_STRING);
 		}
-		$password = filter_var($_POST['password'], FILTER_SANITIZE_STRING);
+		$password = filter_var(trim($_POST['password']), FILTER_SANITIZE_STRING);
 		$parameters['password'] = password_hash($password, PASSWORD_DEFAULT);
 		$url = "http://asmapp_api.com/edit_user";
 		$response = Utilities::curlConnection($url, 'POST', $parameters);
