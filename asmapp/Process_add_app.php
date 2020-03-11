@@ -4,7 +4,7 @@ require_once("Utilities.php");
 
 if(!isset($_SESSION['status'])) {
 	if(isset($_POST['app_name']) && $_POST['app_name']) {
-		$app = filter_var($_POST['app_name'], FILTER_SANITIZE_STRING);
+		$app = filter_var(trim($_POST['app_name']), FILTER_SANITIZE_STRING);
 		$url = "http://asmapp_api.com/add_app";
 		$parameters = array(
 			'app' => $app,
